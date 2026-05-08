@@ -1,4 +1,4 @@
-# ReconBay 🔍
+# ReconBay 
 ### Ultimate Recon Framework | Author: Nipun Dilshan
 
 ```
